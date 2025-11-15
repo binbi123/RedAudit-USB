@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="assets/logo.png" alt="RedAudit Logo" width="120">
+  <img src="usb.ico" alt="RedAudit Logo" width="120">
 </p>
 
 # RedAudit — Windows Host Forensics & Security Assessment Tool
