@@ -51,5 +51,5 @@ The tool provides clear visibility into system activity, persistence mechanisms,
 - Technical Evidence Collection
 
 <p align="left">
-  <img src="panel.png" alt="RedAudit Panel" width="800">
+  <img src="panel.png" alt="RedAudit Panel" width="1000">
 </p>
